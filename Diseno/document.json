@@ -1,0 +1,108 @@
+{
+  "respuestaUsuario": {
+    "id13234": {
+      "tipoEducativa": {
+        "cancerServiz": {
+          "P1": {
+            "R1": {
+              "fecha": "2/12/2017",
+              "respuesta": "si",
+              "puntos": "0"
+            }
+          },
+          "P2": {
+            "R2": {
+              "fecha": "2/12/2017",
+              "respuesta": "no",
+              "puntos": "1"
+            }
+          }
+        },
+        "cancerSeno": {
+          "P1": {
+            "R1": {
+              "fecha": "2/12/2017",
+              "respuesta": "si",
+              "puntos": "0"
+            }
+          },
+          "P2": {
+            "R2": {
+              "fecha": "2/12/2017",
+              "respuesta": "no",
+              "puntos": "1"
+            }
+          }
+        }
+      },
+      "tipoRiesgo": {
+        "cancerServiz": {
+          "P1": {
+            "R1": {
+              "fecha": "2/12/2017",
+              "respuesta": "si",
+              "puntos": "0"
+            }
+          },
+          "P2": {
+            "R2": {
+              "fecha": "2/12/2017",
+              "respuesta": "no",
+              "puntos": "1"
+            }
+          }
+        },
+        "cancerSeno": {
+          "P1": {
+            "R1": {
+              "fecha": "2/12/2017",
+              "respuesta": "si",
+              "puntos": "0"
+            }
+          },
+          "P2": {
+            "R2": {
+              "fecha": "2/12/2017",
+              "respuesta": "no",
+              "puntos": "1"
+            }
+          }
+        }
+      },
+      "tipoEvaluativa": {
+        "cancerServiz": {
+          "P1": {
+            "R1": {
+              "fecha": "2/12/2017",
+              "respuesta": "si",
+              "puntos": "0"
+            }
+          },
+          "P2": {
+            "R2": {
+              "fecha": "2/12/2017",
+              "respuesta": "no",
+              "puntos": "1"
+            }
+          }
+        },
+        "cancerSeno": {
+          "P1": {
+            "R1": {
+              "fecha": "2/12/2017",
+              "respuesta": "si",
+              "puntos": "0"
+            }
+          },
+          "P2": {
+            "R2": {
+              "fecha": "2/12/2017",
+              "respuesta": "no",
+              "puntos": "1"
+            }
+          }
+        }
+      }
+    }
+  }
+}

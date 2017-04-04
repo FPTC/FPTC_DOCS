@@ -1,0 +1,170 @@
+{
+  "preguntas": {
+    "tipoEducativa": {
+      "cancerSeno": {
+        "P1": {
+          "texto": "¿que es?",
+          "respuestas": {
+            "si": "true",
+            "no": "false"
+          },
+          "expliacion": "Abcd acvd",
+          "activa": "true",
+          "orden": "1"
+        },
+        "P2": {
+          "texto": "¿que fue?",
+          "respuestas": {
+            "si": "true",
+            "no": "false"
+          },
+          "explicacion": "Abcd acvd",
+          "activa": "true",
+          "orden": "2"
+        }
+      },
+      "cancerServiz": {
+        "P1": {
+          "texto": "¿que es?",
+          "respuestas": {
+            "si": "true",
+            "no": "false"
+          },
+          "expliacion": "Abcd acvd",
+          "activa": "true",
+          "orden": "1"
+        },
+        "P2": {
+          "texto": "¿que fue?",
+          "respuestas": {
+            "si": "true",
+            "no": "false"
+          },
+          "explicacion": "Abcd acvd",
+          "activa": "true",
+          "orden": "2"
+        }
+      }
+    },
+    "tipoRiesgo": {
+      "cancerSeno": {
+        "P1": {
+          "texto": "¿que es?",
+          "respuestas": {
+            "si": {
+              "pregunta": "¿hace cuanto?",
+              "opcion1": "un año",
+              "opcion2": "dos años"
+            },
+            "no": {
+              "pregunta": "¿hace cuanto?",
+              "opcion1": "un año",
+              "opcion2": "dos años"
+            }
+          },
+          "activa": "true",
+          "orden": "1"
+        },
+        "P2": {
+          "texto": "¿que fue?",
+          "respuestas": {
+            "si": {
+              "pregunta": "¿hace cuanto?",
+              "opcion1": "un año",
+              "opcion2": "dos años"
+            },
+            "no": {
+              "pregunta": "¿hace cuanto?",
+              "opcion1": "un año",
+              "opcion2": "dos años"
+            }
+          },
+          "activa": "true",
+          "orden": "2"
+        }
+      },
+      "cancerServiz": {
+        "P1": {
+          "texto": "¿que es?",
+          "respuestas": {
+            "si": {
+              "pregunta": "¿hace cuanto?",
+              "opcion1": "un año",
+              "opcion2": "dos años"
+            },
+            "no": {
+              "pregunta": "¿hace cuanto?",
+              "opcion1": "un año",
+              "opcion2": "dos años"
+            }
+          },
+          "activa": "true",
+          "orden": "1"
+        },
+        "P2": {
+          "texto": "¿que fue?",
+          "respuestas": {
+            "si": {
+              "pregunta": "¿hace cuanto?",
+              "opcion1": "un año",
+              "opcion2": "dos años"
+            },
+            "no": {
+              "pregunta": "¿hace cuanto?",
+              "opcion1": "un año",
+              "opcion2": "dos años"
+            }
+          },
+          "activa": "true",
+          "orden": "2"
+        }
+      }
+    },
+    "tipoEvaluativa": {
+      "cancerSeno": {
+        "P1": {
+          "texto": "¿que es?",
+          "respuestas": {
+            "si": "10",
+            "no": "0"
+          },
+          "expliacion": "Abcd acvd",
+          "activa": "true",
+          "orden": "1"
+        },
+        "P2": {
+          "texto": "¿que fue?",
+          "respuestas": {
+            "si": "15",
+            "no": "5"
+          },
+          "explicacion": "Abcd acvd",
+          "activa": "true",
+          "orden": "2"
+        }
+      },
+      "cancerServiz": {
+        "P1": {
+          "texto": "¿que es?",
+          "respuestas": {
+            "si": "10",
+            "no": "0"
+          },
+          "expliacion": "Abcd acvd",
+          "activa": "true",
+          "orden": "1"
+        },
+        "P2": {
+          "texto": "¿que fue?",
+          "respuestas": {
+            "si": "15",
+            "no": "5"
+          },
+          "explicacion": "Abcd acvd",
+          "activa": "true",
+          "orden": "2"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "examenes": {
+    "id13234": {
+      "E1": {
+        "fecha":"2/12/2017",
+      "urlimagen": "http://laimagen.com"
+    },
+     "E2": {
+        "fecha":"2/12/2017",
+      "urlimagen": "http://laimagen.com"
+    }
+  }
+}
+}
