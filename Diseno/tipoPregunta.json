@@ -1,13 +1,14 @@
 {
   "tipoPreguntas": {
-    "tipoEducativa":{
-    "descripcion": "b"
-    },
-    "tipoRiesgo":{
-    "descripcion": "b"
-    },
-    "tipoEvaluativa":{
-    "descripcion": "b"
-    }
+		"tipoEducativa":{
+			"descripcion": "b"
+			},
+		"tipoRiesgo":{
+			"descripcion": "b"
+			},
+		"tipoEvaluativa":{
+			"descripcion": "b"
+		}
+	}
   }
 }

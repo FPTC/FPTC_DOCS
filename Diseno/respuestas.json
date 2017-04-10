@@ -1,103 +1,118 @@
 {
-  "respuestaUsuario": {
-    "id13234": {
+  "respuestas": {
+    "cancerServiz": {
       "tipoEducativa": {
-        "cancerServiz": {
-          "P1": {
-            "R1": {
+        "12345678": {
+          "UID": {
+            "85255550": {
               "fecha": "2/12/2017",
               "respuesta": "si",
+			  "idRespuesta" : "14555258",
               "puntos": "0"
             }
           },
-          "P2": {
-            "R2": {
+          "UID": {
+            "85255551": {
               "fecha": "2/12/2017",
-              "respuesta": "no",
-              "puntos": "1"
+              "respuesta": "si",
+			  "idRespuesta" : "14555258",
+              "puntos": "0"
             }
           }
         },
-        "cancerSeno": {
-          "P1": {
-            "R1": {
+        "12345678": {
+          "UID": {
+            "85255552": {
               "fecha": "2/12/2017",
               "respuesta": "si",
+			  "idRespuesta" : "14555258",
               "puntos": "0"
             }
           },
-          "P2": {
-            "R2": {
+          "UID": {
+            "85255553": {
               "fecha": "2/12/2017",
               "respuesta": "no",
+			  "idRespuesta" : "14555261",
               "puntos": "1"
             }
           }
         }
       },
       "tipoRiesgo": {
-        "cancerServiz": {
-          "P1": {
-            "R1": {
+        "12345682": {
+          "UID": {
+            "85255554": {
               "fecha": "2/12/2017",
               "respuesta": "si",
-              "puntos": "0"
+			  "idRespuesta" : "14555261",
+              "puntos": "0",
+			  "5055555" : {
+				"respuesta" : "15255555"				
+			  }
             }
           },
-          "P2": {
+          "UID": {
             "R2": {
               "fecha": "2/12/2017",
               "respuesta": "no",
+			  "idRespuesta" : "14555261",
               "puntos": "1"
             }
           }
         },
-        "cancerSeno": {
-          "P1": {
+        "P1": {
+          "UID": {
             "R1": {
               "fecha": "2/12/2017",
               "respuesta": "si",
+			  "idRespuesta" : "14555261",
               "puntos": "0"
             }
           },
-          "P2": {
+          "UID": {
             "R2": {
               "fecha": "2/12/2017",
               "respuesta": "no",
+			  "idRespuesta" : "14555261",
               "puntos": "1"
             }
           }
         }
       },
       "tipoEvaluativa": {
-        "cancerServiz": {
-          "P1": {
+        "P1": {
+          "UID": {
             "R1": {
               "fecha": "2/12/2017",
               "respuesta": "si",
+			  "idRespuesta" : "14555261",
               "puntos": "0"
             }
           },
-          "P2": {
+          "UID": {
             "R2": {
               "fecha": "2/12/2017",
               "respuesta": "no",
+			  "idRespuesta" : "14555261",
               "puntos": "1"
             }
           }
         },
-        "cancerSeno": {
-          "P1": {
+        "P2": {
+          "UID": {
             "R1": {
               "fecha": "2/12/2017",
               "respuesta": "si",
+			  "idRespuesta" : "14555261",
               "puntos": "0"
             }
           },
-          "P2": {
+          "UID": {
             "R2": {
               "fecha": "2/12/2017",
               "respuesta": "no",
+			  "idRespuesta" : "14555261",
               "puntos": "1"
             }
           }

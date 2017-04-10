@@ -2,21 +2,33 @@
   "preguntas": {
     "tipoEducativa": {
       "cancerSeno": {
-        "P1": {
+        "12345678": {
           "texto": "¿que es?",
           "respuestas": {
-            "si": "true",
-            "no": "false"
+			"14555258" :{
+				"descripcion" : "Si",
+				"esCorrecta" : "true"
+			},
+			"14555259" :{
+				"descripcion" : "No",
+				"esCorrecta" : "false"
+			}
           },
-          "expliacion": "Abcd acvd",
+          "explicacion": "Abcd acvd",
           "activa": "true",
           "orden": "1"
         },
-        "P2": {
+        "12345679": {
           "texto": "¿que fue?",
           "respuestas": {
-            "si": "true",
-            "no": "false"
+			"14555260" :{
+				"descripcion" : "Si",
+				"esCorrecta" : "false"
+			},
+			"14555261" :{
+				"descripcion" : "No",
+				"esCorrecta" : "true"
+			}
           },
           "explicacion": "Abcd acvd",
           "activa": "true",
@@ -24,22 +36,34 @@
         }
       },
       "cancerServiz": {
-        "P1": {
-          "texto": "¿que es?",
-          "respuestas": {
-            "si": "true",
-            "no": "false"
-          },
+        "12345680": {
+          "texto": "¿que es?",v
+		  "respuestas": {
+			  "14555258" :{
+					"descripcion" : "Si",
+					"esCorrecta" : "false"
+				},
+			  "14555259" :{
+					"descripcion" : "No",
+					"esCorrecta" : "true"
+				}
+			}
           "expliacion": "Abcd acvd",
           "activa": "true",
           "orden": "1"
         },
-        "P2": {
+        "12345681": {
           "texto": "¿que fue?",
-          "respuestas": {
-            "si": "true",
-            "no": "false"
-          },
+		   "respuestas": {
+			  "14555260" :{
+					"descripcion" : "Si",
+					"esCorrecta" : "false"
+				},
+			  "14555261" :{
+					"descripcion" : "No",
+					"esCorrecta" : "true"
+				}
+			}
           "explicacion": "Abcd acvd",
           "activa": "true",
           "orden": "2"
@@ -48,121 +72,231 @@
     },
     "tipoRiesgo": {
       "cancerSeno": {
-        "P1": {
+        "12345682": {
           "texto": "¿que es?",
+		  "activa": "true",
+          "orden": "1",
           "respuestas": {
-            "si": {
-              "pregunta": "¿hace cuanto?",
-              "opcion1": "un año",
-              "opcion2": "dos años"
-            },
-            "no": {
-              "pregunta": "¿hace cuanto?",
-              "opcion1": "un año",
-              "opcion2": "dos años"
-            }
-          },
-          "activa": "true",
-          "orden": "1"
+				"14555260" :{
+					"descripcion" : "Si",
+					"esCorrecta" : "false",
+					"Pregunta" : {
+						"5055555" : {
+							"texto" : "Hace cuanto?",
+							"respuestas" : {
+								"15255555":{
+									"descripcion" : "Mas de 5 meses"								
+								},
+								"15255556":{
+									"descripcion" : "Mas de 12 meses"								
+								}							
+							}
+						}
+					}
+				},
+				"14555261" :{
+					"descripcion" : "No",
+					"esCorrecta" : "true",
+					"Pregunta" : {
+						"texto" : "Hace cuanto?",
+						"respuestas" : {
+							"15255555":{
+								"descripcion" : "Mas de 5 meses"								
+							},
+							"15255556":{
+								"descripcion" : "Mas de 12 meses"								
+							}							
+						}
+					}
+				}
+		   }
         },
-        "P2": {
+        "12345683": {
           "texto": "¿que fue?",
+		  "activa": "true",
+          "orden": "2",
           "respuestas": {
-            "si": {
-              "pregunta": "¿hace cuanto?",
-              "opcion1": "un año",
-              "opcion2": "dos años"
-            },
-            "no": {
-              "pregunta": "¿hace cuanto?",
-              "opcion1": "un año",
-              "opcion2": "dos años"
-            }
-          },
-          "activa": "true",
-          "orden": "2"
+				"14555260" :{
+					"descripcion" : "Si",
+					"esCorrecta" : "false",
+					"Pregunta" : {
+						"texto" : "Hace cuanto?",
+						"respuestas" : {
+							"15255555":{
+								"descripcion" : "Mas de 5 meses"								
+							},
+							"15255556":{
+								"descripcion" : "Mas de 12 meses"								
+							}							
+						}
+					}
+				},
+				"14555261" :{
+					"descripcion" : "No",
+					"esCorrecta" : "true",
+					"Pregunta" : {
+						"texto" : "Hace cuanto?",
+						"respuestas" : {
+							"15255555":{
+								"descripcion" : "Mas de 5 meses"								
+							},
+							"15255556":{
+								"descripcion" : "Mas de 12 meses"								
+							}							
+						}
+					}
+				}
+		   }          
         }
       },
       "cancerServiz": {
-        "P1": {
+        "12345684": {
           "texto": "¿que es?",
+		  "activa": "true",
+          "orden": "1",
           "respuestas": {
-            "si": {
-              "pregunta": "¿hace cuanto?",
-              "opcion1": "un año",
-              "opcion2": "dos años"
-            },
-            "no": {
-              "pregunta": "¿hace cuanto?",
-              "opcion1": "un año",
-              "opcion2": "dos años"
-            }
-          },
-          "activa": "true",
-          "orden": "1"
+				"14555260" :{
+					"descripcion" : "Si",
+					"esCorrecta" : "false",
+					"Pregunta" : {
+						"texto" : "Hace cuanto?",
+						"respuestas" : {
+							"15255555":{
+								"descripcion" : "Mas de 5 meses"								
+							},
+							"15255556":{
+								"descripcion" : "Mas de 12 meses"								
+							}							
+						}
+					}
+				},
+				"14555261" :{
+					"descripcion" : "No",
+					"esCorrecta" : "true",
+					"Pregunta" : {
+						"texto" : "Hace cuanto?",
+						"respuestas" : {
+							"15255555":{
+								"descripcion" : "Mas de 5 meses"								
+							},
+							"15255556":{
+								"descripcion" : "Mas de 12 meses"								
+							}							
+						}
+					}
+				}
+		   } 
         },
-        "P2": {
+        "12345685": {
           "texto": "¿que fue?",
+		  "activa": "true",
+          "orden": "2",
           "respuestas": {
-            "si": {
-              "pregunta": "¿hace cuanto?",
-              "opcion1": "un año",
-              "opcion2": "dos años"
-            },
-            "no": {
-              "pregunta": "¿hace cuanto?",
-              "opcion1": "un año",
-              "opcion2": "dos años"
-            }
-          },
-          "activa": "true",
-          "orden": "2"
+				"14555260" :{
+					"descripcion" : "Si",
+					"esCorrecta" : "false",
+					"Pregunta" : {
+						"texto" : "Hace cuanto?",
+						"respuestas" : {
+							"15255555":{
+								"descripcion" : "Mas de 5 meses"								
+							},
+							"15255556":{
+								"descripcion" : "Mas de 12 meses"								
+							}							
+						}
+					}
+				},
+				"14555261" :{
+					"descripcion" : "No",
+					"esCorrecta" : "true",
+					"Pregunta" : {
+						"texto" : "Hace cuanto?",
+						"respuestas" : {
+							"15255555":{
+								"descripcion" : "Mas de 5 meses"								
+							},
+							"15255556":{
+								"descripcion" : "Mas de 12 meses"								
+							}							
+						}
+					}
+				}
+		   }          
         }
       }
     },
     "tipoEvaluativa": {
       "cancerSeno": {
-        "P1": {
+        "12345686": {
           "texto": "¿que es?",
           "respuestas": {
-            "si": "10",
-            "no": "0"
-          },
-          "expliacion": "Abcd acvd",
-          "activa": "true",
-          "orden": "1"
-        },
-        "P2": {
-          "texto": "¿que fue?",
-          "respuestas": {
-            "si": "15",
-            "no": "5"
+			"14555258" :{
+				"descripcion" : "Si",
+				"esCorrecta" : "true"
+			},
+			"14555259" :{
+				"descripcion" : "No",
+				"esCorrecta" : "false"
+			}
           },
           "explicacion": "Abcd acvd",
           "activa": "true",
-          "orden": "2"
+          "orden": "1",
+		  "Puntos" : "2"
+        },
+        "12345687": {
+          "texto": "¿que fue?",
+          "respuestas": {
+			"14555258" :{
+				"descripcion" : "Si",
+				"esCorrecta" : "true"
+			},
+			"14555259" :{
+				"descripcion" : "No",
+				"esCorrecta" : "false"
+			}
+          },
+          "explicacion": "Abcd acvd",
+          "activa": "true",
+          "orden": "2",
+		  "Puntos" : "1"
         }
       },
       "cancerServiz": {
-        "P1": {
+        "12345688": {
           "texto": "¿que es?",
           "respuestas": {
-            "si": "10",
-            "no": "0"
+			"14555258" :{
+				"descripcion" : "Si",
+				"esCorrecta" : "true"
+			},
+			"14555259" :{
+				"descripcion" : "No",
+				"esCorrecta" : "false"
+			}
           },
           "expliacion": "Abcd acvd",
           "activa": "true",
-          "orden": "1"
+          "orden": "1",
+		  "Puntos" : "5"
         },
-        "P2": {
+        "12345689": {
           "texto": "¿que fue?",
           "respuestas": {
-            "si": "15",
-            "no": "5"
+			"14555258" :{
+				"descripcion" : "Si",
+				"esCorrecta" : "true"
+			},
+			"14555259" :{
+				"descripcion" : "No",
+				"esCorrecta" : "false"
+			}
           },
           "explicacion": "Abcd acvd",
           "activa": "true",
-          "orden": "2"
+          "orden": "2",
+		  "Puntos" : "8"
         }
       }
     }

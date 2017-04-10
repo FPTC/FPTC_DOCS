@@ -1,22 +1,28 @@
 {
-  "object": {
-    "id98003":{
-    "nombre": "b",
-    "apellidos": "d",
-    "telefono": "f",
-    "edad": "b",
-    "direccion": "d",
-    "latitud": "f",
-    "longitud": "f"
-    },
-    "id98004":{
-    "nombre": "b",
-    "apellidos": "d",
-    "telefono": "f",
-    "edad": "b",
-    "direccion": "d",
-    "latitud": "f",
-    "longitud": "f"
-    }
-  }
+  "usuarios": {
+			"UID":{
+				"nombre": "b",
+				"apellidos": "d",
+				"telefono": "f",
+				"edad": "b",
+				"direccion": "d",
+				"latitud": "f",
+				"longitud": "f",
+				"totalPuntos" : "20",
+				"estado" : "1",
+				"repeticionesRealizadas" : "1"
+		},
+			"UID":{
+				"nombre": "b",
+				"apellidos": "d",
+				"telefono": "f",
+				"edad": "b",
+				"direccion": "d",
+				"latitud": "f",
+				"longitud": "f",
+				"totalPuntos" : "20".
+				"estado" : "2",
+				"repeticionesRealizadas" : "1"
+		}
+	}
 }
