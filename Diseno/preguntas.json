@@ -149,7 +149,7 @@
 		   }          
         }
       },
-      "cancerServiz": {
+      "cancerCervix": {
         "12345684": {
           "texto": "¿que es?",
 		  "activa": "true",
@@ -263,7 +263,7 @@
 		  "Puntos" : "1"
         }
       },
-      "cancerServiz": {
+      "cancerCervix": {
         "12345688": {
           "texto": "¿que es?",
           "respuestas": {
