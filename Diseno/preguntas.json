@@ -233,34 +233,36 @@
           "respuestas": {
 			"14555258" :{
 				"descripcion" : "Si",
-				"esCorrecta" : "true"
+				"esCorrecta" : "true",
+				"puntos" : "8"
 			},
 			"14555259" :{
 				"descripcion" : "No",
-				"esCorrecta" : "false"
+				"esCorrecta" : "false",
+				"puntos" : "5"
 			}
           },
           "explicacion": "Abcd acvd",
           "activa": "true",
-          "orden": "1",
-		  "Puntos" : "2"
+          "orden": "1"
         },
         "12345687": {
           "texto": "¿que fue?",
           "respuestas": {
 			"14555258" :{
 				"descripcion" : "Si",
-				"esCorrecta" : "true"
+				"esCorrecta" : "true",
+				"puntos" : "2"
 			},
 			"14555259" :{
 				"descripcion" : "No",
-				"esCorrecta" : "false"
+				"esCorrecta" : "false",
+				"puntos" : "1"
 			}
           },
           "explicacion": "Abcd acvd",
           "activa": "true",
-          "orden": "2",
-		  "Puntos" : "1"
+          "orden": "2"
         }
       },
       "cancerCervix": {
@@ -269,34 +271,36 @@
           "respuestas": {
 			"14555258" :{
 				"descripcion" : "Si",
-				"esCorrecta" : "true"
+				"esCorrecta" : "true",
+				"puntos" : "1"
 			},
 			"14555259" :{
 				"descripcion" : "No",
-				"esCorrecta" : "false"
+				"esCorrecta" : "false",
+				"puntos" : "2"
 			}
           },
           "expliacion": "Abcd acvd",
           "activa": "true",
-          "orden": "1",
-		  "Puntos" : "5"
+          "orden": "1"
         },
         "12345689": {
           "texto": "¿que fue?",
           "respuestas": {
 			"14555258" :{
 				"descripcion" : "Si",
-				"esCorrecta" : "true"
+				"esCorrecta" : "true",
+				"puntos" : "8"
 			},
 			"14555259" :{
 				"descripcion" : "No",
-				"esCorrecta" : "false"
+				"esCorrecta" : "false",
+				"puntos" : "3"
 			}
           },
           "explicacion": "Abcd acvd",
           "activa": "true",
-          "orden": "2",
-		  "Puntos" : "8"
+          "orden": "2"
         }
       }
     }
